@@ -1,0 +1,11 @@
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\bin\Debug\OCRupload.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\bin\Debug\OCRupload.exe
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\bin\Debug\OCRupload.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\bin\Debug\OCRupload.xml
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.exe
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.xml
+c:\users\kevin\documents\visual studio 2015\Projects\OCRupload\obj\Debug\OCRupload.pdb
